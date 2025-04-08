@@ -1,5 +1,21 @@
 # 🏏 Cricket Score Predictor
 
+<table>
+<tr>
+<td align="center">
+  <img src="static/images/ui_left_half.png" alt="UI Left Half" width="400"/>
+  <br><sub><b>Form Input with Flags</b></sub>
+</td>
+<td align="center">
+  <img src="static/images/ui_right_half.png" alt="UI Right Half" width="400"/>
+  <br><sub><b>Prediction Result and Chart</b></sub>
+</td>
+</tr>
+</table>
+---
+
+
+
 A **Machine Learning-based web application** that predicts the final score of a T20 cricket match based on match data. Built using **Flask** for the backend and **HTML/CSS/JS** for a modern, responsive frontend.
 
 ---
