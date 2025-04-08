@@ -7,7 +7,7 @@
   <br><sub><b>Form Input with Flags</b></sub>
 </td>
 <td align="center">
-  <img src="static/images/ui_right_half.png" alt="UI Right Half" width="400"/>
+  <img src="dark score_prediction.png" alt="UI Right Half" width="400"/>
   <br><sub><b>Prediction Result and Chart</b></sub>
 </td>
 </tr>
