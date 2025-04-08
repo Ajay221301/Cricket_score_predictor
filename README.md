@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td align="center">
-  <img src="static/images/ui_left_half.png" alt="UI Left Half" width="400"/>
+  <img src="score_prediction.png" alt="UI Left Half" width="400"/>
   <br><sub><b>Form Input with Flags</b></sub>
 </td>
 <td align="center">
